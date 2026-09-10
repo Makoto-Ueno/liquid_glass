@@ -75,6 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  glassmorphic_ui:
+    dependency: "direct main"
+    description:
+      name: glassmorphic_ui
+      sha256: "83df0c8264ff12e4163a2246c5e4df58db07ee5d16e3553621568c2a74c71d74"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
   leak_tracker:
     dependency: transitive
     description:
@@ -209,5 +217,5 @@ packages:
     source: hosted
     version: "14.3.1"
 sdks:
-  dart: ">=3.11.0-0 <4.0.0"
-  flutter: ">=3.18.0-18.0.pre.54"
+  dart: ">=3.11.0 <4.0.0"
+  flutter: ">=3.27.0"
