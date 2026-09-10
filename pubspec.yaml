@@ -9,6 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  ios_liquid_glass: ^0.9.9
 
 dev_dependencies:
   flutter_test:

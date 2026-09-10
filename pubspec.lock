@@ -75,6 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  ios_liquid_glass:
+    dependency: "direct main"
+    description:
+      name: ios_liquid_glass
+      sha256: "8fb1455ba589a79f872fa3647b3ff321a4f1b0145ef8cca854a92ac110dce6a8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.9"
   leak_tracker:
     dependency: transitive
     description:
@@ -107,6 +115,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.1.1"
+  liquid_glass_easy:
+    dependency: transitive
+    description:
+      name: liquid_glass_easy
+      sha256: "7b5980233a8502bc655225c666ae7bebed1b2e0217460167f8a4ab32f78fb69f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.5.0"
   matcher:
     dependency: transitive
     description:
@@ -139,6 +155,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: plugin_platform_interface
+      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.8"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -210,4 +234,4 @@ packages:
     version: "14.3.1"
 sdks:
   dart: ">=3.11.0-0 <4.0.0"
-  flutter: ">=3.18.0-18.0.pre.54"
+  flutter: ">=3.41.0"
